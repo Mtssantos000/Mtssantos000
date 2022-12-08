@@ -28,6 +28,8 @@
  
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Mtssantos000/count.svg" /></p>
   
+  ![alucard](https://user-images.githubusercontent.com/116315384/206579241-49d9a408-f07b-4705-887d-e527356c9936.png)
+  
   ![snake gif](https://github.com/Mtssantos000/Mtssantos000/blob/output/github-contribution-grid-snake.svg)
  
 </div>
